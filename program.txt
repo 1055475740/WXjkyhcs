@@ -2,3 +2,8 @@ Main()
 {
 	print 'hellow word'
 }
+
+metho()
+{
+	print ¡®my name is Ð¡Ä¸Å£¡¯
+}
